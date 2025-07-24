@@ -65,13 +65,7 @@ Note: This project is designed to be static and does not require a backend serve
 
 ## 🚀 Live Demo
 
-> 🌍 [View Live Demo](#)
-
-## 🏷️ Topics & Tags
-
-```
-landing-page, modern-ui, portfolio-website, responsive-design, web-development, html-css-js, uiux, web-design, github-pages, fullstack-dev
-```
+> 🌍 [View Live Demo](https://modern-landing-page-ajay.vercel.app)
 
 ## 🤝 Contributing
 
