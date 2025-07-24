@@ -18,7 +18,13 @@ Welcome to the Modern Landing Page project! This is a sleek, responsive, and hig
 
 ## 📷 Preview
 
+<!--
 ![Landing Page Preview](./preview.png)
+
+-->
+
+<img width="1366" height="4587" alt="image" src="https://github.com/user-attachments/assets/eb9286b9-d5c5-433f-9908-0682d92b6fde" />
+
 
 ## 🛠️ Tech Stack
 
